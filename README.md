@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 <!--
 **pocoochan/pocoochan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pocoochan&theme=discord&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/pocoochan/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pocoochan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pocoochan&theme=navy-gear&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
